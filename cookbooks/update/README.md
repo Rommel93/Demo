@@ -1,4 +1,4 @@
-# update
+# Update Cookbook
 
-TODO: Enter the cookbook description here.
+This cookbook is for updating packages
 
