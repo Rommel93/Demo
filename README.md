@@ -1,2 +1,2 @@
 # Demo
-Repository for Demo
+Git Repository for Demo
