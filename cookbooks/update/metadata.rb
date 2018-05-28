@@ -1,6 +1,6 @@
 name 'update'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Rommel Juarez'
+maintainer_email 'rommel_juarez@epam.com'
 license 'All Rights Reserved'
 description 'Installs/Configures update'
 long_description 'Installs/Configures update'
