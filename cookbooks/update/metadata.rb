@@ -4,7 +4,7 @@ maintainer_email 'rommel_juarez@epam.com'
 license 'All Rights Reserved'
 description 'Installs/Configures update'
 long_description 'Installs/Configures update'
-version '0.2.0'
+version '0.3.0'
 chef_version '>= 12.14' if respond_to?(:chef_version)
 
 # The `issues_url` points to the location where issues for this cookbook are
