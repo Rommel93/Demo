@@ -1,0 +1,13 @@
+{
+    "name": "prod",
+    "description": "This is a JSON role for prod",
+    "chef_type": "role",
+    "json_class": "Chef::Role",
+    "default_attributes": {
+    },
+    "override_attributes": {
+    },
+    "run_list": [
+        "recipe[update]"
+    ]
+}

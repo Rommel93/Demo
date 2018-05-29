@@ -5,6 +5,6 @@
 # Copyright:: 2018, The Authors, All Rights Reserved.
 
 
-yum_package 'java' do
+yum_package 'httpd' do
 	action :upgrade
 end
